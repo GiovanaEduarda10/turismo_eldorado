@@ -1,0 +1,28 @@
+.img{
+    width: 2000px;
+    height: 900px;
+}
+h1{
+    margin-left: 770px;
+    margin-bottom: 80px;
+    color:darkgreen
+}
+h2{
+    margin-left: 600px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+h3{
+    margin-left: 600px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+}
+.trilha{
+    width: 500px;
+    height: 500px;
+    margin-left: 85px;
+    
+}
+body{
+    background-color:rgb(123, 224, 194);
+}
